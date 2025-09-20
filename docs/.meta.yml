@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/redbot/MQ2Camera"
+docs_edit_uri: "edit/docs-dir/"
+docs_path_transform:
+  from: "projects/mq2camera/"
+  to: "docs/"
